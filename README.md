@@ -90,7 +90,7 @@ Passionate about technology, data-driven decisions, and building efficient code.
 ---
 
 ## 📫 Connect with Me
-- 📧 **Email:** [mohamedelkhatib.code@gmail.com](mohamedelkhatib.code@gmail.com) 
+- 📧 **Email:** [mohamedelkhatib.code@gmail.com](your-email@example.com) 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/mohamed-elkhatib-48586238b?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/mohamed-elkhatib-48586238b?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
 ---
