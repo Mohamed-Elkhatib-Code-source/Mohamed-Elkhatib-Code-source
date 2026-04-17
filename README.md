@@ -13,6 +13,22 @@ Passionate about technology, data-driven decisions, and building efficient code.
 - ⚡ Fun fact: I'm a big fan of **CR7** and I enjoy playing football.
 
 ---
+---
+
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elkhatib-Code-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elkhatib-Code-source&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
