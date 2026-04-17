@@ -1,10 +1,10 @@
-# <p align="center">✨ Welcome to Mohamed ElKhatib's Space ✨</p>
+# <p align="center">✨ I'm Mohamed ElKhatib  ✨</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamed%20ElKhatib&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-### <p align="center">🚀 First-year AI & Data Science Student @ Alexandria University</p>
+### <p align="center">🚀 First-year compeuters & Data Science Student @ Alexandria University</p>
 
 ---
 
