@@ -99,7 +99,7 @@ Passionate about technology, data-driven decisions, and building efficient code.
 - ☕ **Java Assignment:** A Device management system built for university coursework.
 - 📈 **Decision Tree Project:** Trip planning itinerary based on data models.
 - 🚀 More coming soon...
--) *(عدل ده بإيميلك الحقيقي)*
+-) 
 
 
 ---
