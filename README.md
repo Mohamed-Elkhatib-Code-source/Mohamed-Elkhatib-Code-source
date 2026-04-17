@@ -1,127 +1,58 @@
-# Hello, I'm Mohamed ElKhatib 👋
+# <p align="center">✨ Welcome to Mohamed ElKhatib's Space ✨</p>
 
-I'm a **Computer Science & Data Science** student at **Alexandria University** 🎓  
-Passionate about technology, data-driven decisions, and building efficient code.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamed%20ElKhatib&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
+
+### <p align="center">🚀 First-year AI & Data Science Student @ Alexandria University</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 **Education:** Faculty of Computers and Data Science, Alexandria University.
+- 📍 **Hometown:** Mansoura ➡️ Alexandria.
+- 💡 **Focus:** Data Structures, AI Security, and Web Development.
+- ⚽ **Passions:** Big fan of **CR7** and a football lover.
 
 ---
 
-## 🚀 About Me
-- 🎓 **First-year Student** at Faculty of Computers & Data Science – Alexandria University.
-- 💻 Specialized in **Data Science** & Algorithmic problem solving.
-- 🌱 Currently mastering **Java**, **Python**, and **Data Analysis** techniques.
-- 📍 Based in **Alexandria** (Originally from Mansoura).
-- ⚡ Fun fact: I'm a big fan of **CR7** and I enjoy playing football.
-
----
----
-
-## 💻 Tech Stack
+## 🛠 My Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elkhatib-Code-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elkhatib-Code-source&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elkhatib-Code-source&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elkhatib-Code-source&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
 </p>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ED8B00)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
-![](https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
-![](https://img.shields.io/badge/Data-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
-![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Elkhatib-Code-source&theme=tokyonight&hide_border=false" width="94%" />
+</p>
 
 ---
 
-## 📚 Currently Learning
-- 📊 **Data Analysis & Visualization** (Exploratory Data Analysis).
-- 🤖 **Machine Learning Basics** (Clustering & Decision Trees).
-- ☕ Advanced **Object-Oriented Programming** in Java.
-- 💡 Solving problems on LeetCode & Codeforces.
+## 📁 Key Projects
+- 🎧 **[Podcast Playlist Manager](https://github.com/Mohamed-Elkhatib-Code-source/podcast_playlist_manager)**: Java project using Singly Linked Lists.
+- 📝 **[Java Assignment](https://github.com/Mohamed-Elkhatib-Code-source/java_Assignment)**: University projects for Data Structures.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-ElKhatib-Code-source&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elkhatib-Code-source&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elkhatib-Code-source&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
----
-
-## 📫 Connect with Me
-- 📧 **Email:** [# Hello, I'm Mohamed ElKhatib 👋
-
-I'm a **Computer Science & Data Science** student at **Alexandria University** 🎓  
-Passionate about technology, data-driven decisions, and building efficient code.
-
----
-
-## 🚀 About Me
-- 🎓 **First-year Student** at Faculty of Computers & Data Science – Alexandria University.
-- 💻 Specialized in **Data Science** & Algorithmic problem solving.
-- 🌱 Currently mastering **Java**, **Python**, and **Data Analysis** techniques.
-- 📍 Based in **Alexandria** (Originally from Mansoura).
-- ⚡ Fun fact: I'm a big fan of **CR7** and I enjoy playing football.
-
----
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ED8B00)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
-![](https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
-![](https://img.shields.io/badge/Data-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
-![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
-
----
-
-## 📚 Currently Learning
-- 📊 **Data Analysis & Visualization** (Exploratory Data Analysis).
-- 🤖 **Machine Learning Basics** (Clustering & Decision Trees).
-- ☕ Advanced **Object-Oriented Programming** in Java.
-- 💡 Solving problems on LeetCode & Codeforces.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elkhatib-Code-source&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elkhatib-Code-source&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
----
-
-## 📫 Connect with Me
-- 📧 **Email:** [mohamedelkhatib.code@gmail.com](your-email@example.com) 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/mohamed-elkhatib-48586238b?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/mohamed-elkhatib-48586238b?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
-
----
-
-## 🔥 Featured Projects
-- ☕ **Java Assignment:** A Device management system built for university coursework.
-- 📈 **Decision Tree Project:** Trip planning itinerary based on data models.
-- 🚀 More coming soon...
--) 
-
-
----
-
-## 🔥 Featured Projects
-- ☕ **Java Assignment:** A Device management system built for university coursework.
-- 📈 **Decision Tree Project:** Trip planning itinerary based on data models.
-- 🚀 More coming soon...
--..
+## 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-elkhatib-48586238b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/201020743608" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
