@@ -41,10 +41,13 @@
 ## 📁 Key Projects
 - 🎧 **[Podcast Playlist Manager](https://github.com/Mohamed-Elkhatib-Code-source/podcast_playlist_manager)**: Java project using Singly Linked Lists.
 - 📝 **[Java Assignment](https://github.com/Mohamed-Elkhatib-Code-source/java_Assignment)**: University projects for Data Structures.
+- - 🚚 **[Delivery App Optimization](https://github.com/Mohamed-Elkhatib-Code-source/KMeans-Delivery-Analysis)**: A Python application using K-Means clustering for delivery route and zone optimization.
+-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-ElKhatib-Code-source&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
+
 ---
 
 ## 📫 Connect with me
